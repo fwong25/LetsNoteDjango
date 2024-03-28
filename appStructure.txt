@@ -1,0 +1,22 @@
+● LetsNoteProject
+|
++---● letsnote (app folder)
+|   |
+|   +--● migrations (includes files related to migrations)
+|   | 
+|   +--● static
+|   |  |--● letsnote
+|   |  |  |--styles.css
+|   |  
+|   +--● templates
+|   |  |--● letsnote
+|   |  |  |--note_list.html
+|   | 
+|   |-- models.py (python class for each database table)
+|   |-- urls.py (app. specific url mapping)
+|   |-- views.py (view fns. to handle http request)
+|
++---● LetsNoteProject
+|   |
+|   |--setting.py (project config. file)
+|   |--urls.py (url mapping for the project)
